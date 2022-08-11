@@ -1,0 +1,191 @@
+Microsoft Windows [Version 10.0.19041.450]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\LabUser>cd\094021Data
+
+C:\094021Data>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data
+
+10/27/2020  10:40 PM    <DIR>          .
+10/27/2020  10:40 PM    <DIR>          ..
+10/27/2020  10:39 PM    <DIR>          Dealing with Exceptions
+10/27/2020  10:39 PM    <DIR>          Processing Data Structures
+10/27/2020  10:39 PM    <DIR>          Processing Simple Data Types
+10/27/2020  10:39 PM    <DIR>          Setting Up Python and Developing a Simple Application
+10/27/2020  10:39 PM    <DIR>          Snippets
+10/27/2020  10:39 PM    <DIR>          Structuring Code for Reuse
+10/27/2020  10:39 PM    <DIR>          Writing Code to Process Files and Directories
+10/27/2020  10:39 PM    <DIR>          Writing Conditional Statements and Loops in Python
+               0 File(s)              0 bytes
+              10 Dir(s)  117,996,888,064 bytes free
+
+C:\094021Data>dir /x
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data
+
+10/27/2020  10:40 PM    <DIR>                       .
+10/27/2020  10:40 PM    <DIR>                       ..
+10/27/2020  10:39 PM    <DIR>          DEALIN~1     Dealing with Exceptions
+10/27/2020  10:39 PM    <DIR>          PROCES~1     Processing Data Structures
+10/27/2020  10:39 PM    <DIR>          PROCES~2     Processing Simple Data Types
+10/27/2020  10:39 PM    <DIR>          SETTIN~1     Setting Up Python and Developing a Simple Application
+10/27/2020  10:39 PM    <DIR>                       Snippets
+10/27/2020  10:39 PM    <DIR>          STRUCT~1     Structuring Code for Reuse
+10/27/2020  10:39 PM    <DIR>          WRITIN~1     Writing Code to Process Files and Directories
+10/27/2020  10:39 PM    <DIR>          WRITIN~2     Writing Conditional Statements and Loops in Python
+               0 File(s)              0 bytes
+              10 Dir(s)  117,996,748,800 bytes free
+
+C:\094021Data>cd cd settin~1
+The system cannot find the path specified.
+
+C:\094021Data>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data
+
+10/27/2020  10:40 PM    <DIR>          .
+10/27/2020  10:40 PM    <DIR>          ..
+10/27/2020  10:39 PM    <DIR>          Dealing with Exceptions
+10/27/2020  10:39 PM    <DIR>          Processing Data Structures
+10/27/2020  10:39 PM    <DIR>          Processing Simple Data Types
+10/27/2020  10:39 PM    <DIR>          Setting Up Python and Developing a Simple Application
+10/27/2020  10:39 PM    <DIR>          Snippets
+10/27/2020  10:39 PM    <DIR>          Structuring Code for Reuse
+10/27/2020  10:39 PM    <DIR>          Writing Code to Process Files and Directories
+10/27/2020  10:39 PM    <DIR>          Writing Conditional Statements and Loops in Python
+               0 File(s)              0 bytes
+              10 Dir(s)  117,946,859,520 bytes free
+
+C:\094021Data>python wordvount.py
+python: can't open file 'C:\094021Data\wordvount.py': [Errno 2] No such file or directory
+
+C:\094021Data>python wordcount.py
+python: can't open file 'C:\094021Data\wordcount.py': [Errno 2] No such file or directory
+
+C:\094021Data>bartleby.txt
+'bartleby.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\094021Data>y
+'y' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\094021Data>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data
+
+10/27/2020  10:40 PM    <DIR>          .
+10/27/2020  10:40 PM    <DIR>          ..
+10/27/2020  10:39 PM    <DIR>          Dealing with Exceptions
+10/27/2020  10:39 PM    <DIR>          Processing Data Structures
+10/27/2020  10:39 PM    <DIR>          Processing Simple Data Types
+10/27/2020  10:39 PM    <DIR>          Setting Up Python and Developing a Simple Application
+10/27/2020  10:39 PM    <DIR>          Snippets
+10/27/2020  10:39 PM    <DIR>          Structuring Code for Reuse
+10/27/2020  10:39 PM    <DIR>          Writing Code to Process Files and Directories
+10/27/2020  10:39 PM    <DIR>          Writing Conditional Statements and Loops in Python
+               0 File(s)              0 bytes
+              10 Dir(s)  117,980,856,320 bytes free
+
+C:\094021Data>dit /x
+'dit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\094021Data>cd settin~1
+
+C:\094021Data\SETTIN~1>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data\SETTIN~1
+
+10/27/2020  10:39 PM    <DIR>          .
+10/27/2020  10:39 PM    <DIR>          ..
+10/27/2020  10:39 PM    <DIR>          Errors
+10/27/2020  10:39 PM    <DIR>          Finished
+10/27/2020  10:19 AM       311,148,048 pycharm-community-2020.2.3.exe
+10/27/2020  10:19 AM        28,158,664 python-3.9.0-amd64.exe
+               2 File(s)    339,306,712 bytes
+               4 Dir(s)  117,978,906,624 bytes free
+
+C:\094021Data\SETTIN~1>cd finished
+
+C:\094021Data\SETTIN~1\Finished>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4A6F-0450
+
+ Directory of C:\094021Data\SETTIN~1\Finished
+
+10/27/2020  10:39 PM    <DIR>          .
+10/27/2020  10:39 PM    <DIR>          ..
+10/27/2020  10:19 AM            82,258 bartleby.txt
+10/27/2020  10:19 AM                 0 empty.txt
+10/27/2020  10:19 AM        11,011,307 large_file.txt
+10/27/2020  10:19 AM            51,461 open-boat.txt
+10/27/2020  10:19 AM                80 small.txt
+10/27/2020  10:19 AM               522 validate.py
+10/27/2020  10:19 AM             1,163 wordcount.py
+10/27/2020  10:19 AM               626 wordexceptions.py
+10/27/2020  10:19 AM             7,503 wordprocess.py
+10/27/2020  10:19 AM         1,154,330 wordsEn.txt
+              10 File(s)     12,309,250 bytes
+               2 Dir(s)  117,978,902,528 bytes free
+
+C:\094021Data\SETTIN~1\Finished>python wordcount.py
+Welcome to the F&A text analysis program.
+
+What file do you want to analyze? bartleby.txt
+  Reading file, one moment...
+  File read successfully.
+
+Strip common words from the results? (Y/N) y
+  Compiling results, one moment ... read 14361 words from manuscript file.
+
+Results for bartleby.txt
+  his: 220 times
+  he: 213 times
+  my: 196 times
+  it: 156 times
+  me: 138 times
+  him: 137 times
+  you: 105 times
+  would: 96 times
+  this: 68 times
+  upon: 66 times
+  all: 64 times
+  said: 57 times
+  no: 52 times
+  so: 52 times
+  one: 51 times
+  an: 48 times
+  any: 47 times
+  what: 45 times
+  which: 45 times
+  or: 44 times
+  if: 43 times
+  some: 42 times
+  there: 42 times
+  then: 42 times
+  will: 41 times
+  now: 36 times
+  man: 35 times
+  office: 35 times
+
+Would you like to output these results to a file? (Y/N) y
+  Log file saved to bartleby_results.txt
+  Archive file saved to bartleby_results_backup_2022-08-11_00.14.06.txt
+
+The C:\Users\LabUser\Desktop\Wordcount Output output folder now contains:
+  bartleby_results.txt
+  bartleby_results_backup_2022-08-11_00.14.06.txt
+
+C:\094021Data\SETTIN~1\Finished>Exit
